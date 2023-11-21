@@ -1,0 +1,1 @@
+this folder contains all the failed validation videos from oops dataset mentioned in the main readme.md file
