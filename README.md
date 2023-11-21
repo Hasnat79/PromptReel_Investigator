@@ -24,7 +24,7 @@ Based on the observations, consider the following steps for further analysis or 
 
 
 ## Files and Directories
-- `PromptReel_Investigator/results/__irr_vid_prmt_exp_data.json`: Results data from the model execution.
+- [__irr_vid_prmt_exp_data.json](./results/__irr_vid_prmt_exp_data.json): Results data from the model execution.
 - [PromptReel Investigator Observations](https://docs.google.com/document/d/127Dz9mZk-qVI6-2zdDWY9xFD1p-LYS-5UkN3QIGkJWw/edit?usp=sharing): Detailed documentation of observations and insights.
 
 **Note**: Ensure that the results data file is reviewed in conjunction with the observations document to derive meaningful conclusions from the experiment.
